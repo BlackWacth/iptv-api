@@ -1,52 +1,29 @@
 🕘️更新时间,#genre#
-2025-09-05 14:20:37,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+2025-09-05 18:21:29,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
-CCTV-2,http://106.52.196.79:80/TV/mui.php?id=cctv2
-CCTV-2,http://113.26.202.52:1299/tsfile/live/0002_1.m3u8
 CCTV-3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
-CCTV-3,http://106.52.196.79:80/TV/mui.php?id=cctv3
-CCTV-4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
-CCTV-4,http://111.43.126.240:9003/hls/16/index.m3u8
 CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
 CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
 CCTV-6,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
 CCTV-7,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
-CCTV-7,http://106.52.196.79:80/TV/mui.php?id=cctv7
-CCTV-8,http://106.52.196.79:80/TV/mui.php?id=cctv8
 CCTV-9,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
 CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
-CCTV-10,http://106.52.196.79:80/TV/mui.php?id=cctv10
 CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
 CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
 CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
-CCTV-13,http://106.52.196.79:80/TV/mui.php?id=cctv13
 CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
-CCTV-14,http://113.26.202.52:1299/tsfile/live/0014_1.m3u8
 CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
-CCTV-15,http://106.52.196.79:80/TV/mui.php?id=cctv15
-CCTV-17,http://106.52.196.79:80/TV/mui.php?id=cctv17
-CCTV-17,http://218.13.170.98:9901/tsfile/live/0016_1.m3u8
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-湖南卫视,http://113.26.202.52:1299/tsfile/live/0128_1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hubws
 东方卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfws
-东方卫视,http://112.27.235.94:8000/hls/28/index.m3u8
-东南卫视,http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://60.174.40.117:85/tsfile/live/0113_1.m3u8?key=txiptv
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
-江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
-辽宁卫视,http://60.174.40.117:85/tsfile/live/1033_1.m3u8?key=txiptv
-山东卫视,http://113.26.202.52:1299/tsfile/live/0131_1.m3u8
 陕西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sxws
-四川卫视,http://60.174.40.117:85/tsfile/live/0123_1.m3u8?key=txiptv
-西藏卫视,http://219.146.95.58:59902/tsfile/live/0111_1.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-新疆卫视,http://219.146.95.58:59902/tsfile/live/0110_1.m3u8?txiptv
