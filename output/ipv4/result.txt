@@ -1,28 +1,20 @@
 🕘️更新时间,#genre#
-2025-09-07 06:18:15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+2025-09-07 18:54:28,http://61.156.228.12:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
-CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
-CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
-CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
-CCTV-6,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
-CCTV-7,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
-CCTV-9,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
-CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
+CCTV-5,http://61.156.228.12:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8
+CCTV-9,http://116.9.204.242:9901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-10,http://113.15.109.216:59901/tsfile/live/0010_1.m3u8
-CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
-CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
-CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
-CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
-CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
+CCTV-12,http://113.15.109.216:59901/tsfile/live/0012_1.m3u8
+CCTV-13,http://116.9.204.242:9901/tsfile/live/0013_1.m3u8?key=txiptv
 
 💰央视付费频道,#genre#
-第一剧场,http://120.198.95.220:9901/tsfile/live/1071_1.m3u8
 
 📡卫视频道,#genre#
+广东卫视,http://113.15.109.216:59901/tsfile/live/0125_1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hubws
-东方卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfws
+安徽卫视,http://111.227.196.164:9901/tsfile/live/0130_1.m3u8
+东方卫视,http://113.26.202.52:1299/tsfile/live/0107_1.m3u8
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-陕西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sxws
