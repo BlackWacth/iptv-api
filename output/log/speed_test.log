@@ -1,7 +1,5 @@
-Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 华为云, Date: None, Delay: 292 ms, Speed: 3.17 M/s, Resolution: 1920x1080
-Name: 河南卫视, URL: http://lxajh.top/tv/hn.php?id=hnws, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: , Date: None, Delay: 289 ms, Speed: 3.19 M/s, Resolution: 1920x1080
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 87 ms, Speed: 1.11 M/s, Resolution: None
-Name: CCTV-5+, URL: http://113.15.109.216:59901/tsfile/live/1001_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广西-河池, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-12, URL: http://113.15.109.216:59901/tsfile/live/0012_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广西-河池, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-10, URL: http://113.15.109.216:59901/tsfile/live/0010_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广西-河池, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 世界地理, URL: http://61.184.46.85:9901/tsfile/live/1025_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-荆州, ISP: 电信, Date: None, Delay: 10370 ms, Speed: 0.00 M/s, Resolution: None
+Name: 新疆卫视, URL: http://t.061899.xyz/tl/tl.php?id=xjws, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 9 ms, Speed: 12.28 M/s, Resolution: None
+Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 华为云, Date: None, Delay: 139 ms, Speed: 5.49 M/s, Resolution: 1920x1080
+Name: 河南卫视, URL: http://lxajh.top/tv/hn.php?id=hnws, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: , Date: None, Delay: 143 ms, Speed: 5.47 M/s, Resolution: 1920x1080
+Name: 东方卫视, URL: http://dmggg.tyzb.fun:26355/migu/651632648.m3u8?migutoken=8e88861cd5dc2121c53ef4ec4269633367e1d0bb38b29c00d65bfbc3eaa2c5ff4ebfbf75792dd01238389bae149ea41c5ddf5522e1a46bcd0b5f9005ad7742207d212664fd65c82456846426ed, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 阿里云BGP数据中心, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
