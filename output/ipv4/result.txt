@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2025-09-09 18:22:41,http://iptv.4666888.xyz/iptv.php?id=20121
+2025-09-10 06:17:15,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
-第一剧场,http://iptv.4666888.xyz/iptv.php?id=20121
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
