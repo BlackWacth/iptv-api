@@ -1,3 +1,2 @@
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 33 ms, Speed: 2.89 M/s, Resolution: None
-Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 华为云, Date: None, Delay: 135 ms, Speed: 6.51 M/s, Resolution: 1920x1080
-Name: CCTV-8, URL: http://218.17.33.178:53290/tsfile/live/1008_1.m3u8?key=txiptv, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10089 ms, Speed: 0.68 M/s, Resolution: None
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 5 ms, Speed: 20.08 M/s, Resolution: None
+Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 华为云, Date: None, Delay: 112 ms, Speed: 5.78 M/s, Resolution: 1920x1080
