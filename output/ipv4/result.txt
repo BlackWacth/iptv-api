@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-09-21 18:20:54,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
+2025-09-22 06:19:07,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
 
 📺央视频道,#genre#
-CCTV-8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
 CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
 CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
@@ -20,8 +19,6 @@ CETV-4,http://223.167.245.215:8001/rtp/239.45.1.50:5140
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
-西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
 云南卫视,http://223.167.245.215:8001/rtp/239.45.0.4:5140
