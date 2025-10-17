@@ -1,11 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-17 18:21:55,https://httop.top/ysp-cctv5
+2025-10-18 06:20:05,http://106.53.99.30/tv/cctv13.php
 
 📺央视频道,#genre#
-CCTV-5,https://httop.top/ysp-cctv5
-CCTV-12,https://httop.top/ysp-cctv12
 CCTV-13,http://106.53.99.30/tv/cctv13.php
-CCTV-16,https://httop.top/ysp-cctv16
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
@@ -13,5 +10,3 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-内蒙古卫视,http://218.8.87.96:4000/rtp/229.58.190.183:5000
-宁夏卫视,https://httop.top/ysp-宁夏卫视
