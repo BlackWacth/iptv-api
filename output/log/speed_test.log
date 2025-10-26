@@ -1,3 +1,8 @@
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 15 ms, Speed: 6.89 M/s, Resolution: None
-Name: CETV-1, URL: http://117.174.25.254:8188/rtp/239.0.0.51:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川, ISP: 移动, Date: None, Delay: 454 ms, Speed: 0.82 M/s, Resolution: 1920x1080
-Name: CETV-4, URL: http://117.174.25.254:8188/rtp/239.0.0.98:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川, ISP: 移动, Date: None, Delay: 452 ms, Speed: 0.82 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 18 ms, Speed: 5.52 M/s, Resolution: None
+Name: CCTV-11, URL: http://sh.lnott.top:880/dx11.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 移动, Date: None, Delay: 10904 ms, Speed: 0.17 M/s, Resolution: 1920x1080
+Name: CCTV-17, URL: http://sh.lnott.top:880/dx17.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 移动, Date: None, Delay: 10900 ms, Speed: 0.12 M/s, Resolution: 1920x1080
+Name: CETV-4, URL: http://117.174.25.254:8188/rtp/239.0.0.98:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://117.174.25.254:8188/rtp/239.0.0.51:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 新疆卫视, URL: http://113.106.171.234:8899/rtp/239.20.0.158:2114, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-惠州, ISP: 电信, Date: None, Delay: 510 ms, Speed: 0.31 M/s, Resolution: 720x576
+Name: 湖北卫视, URL: http://113.106.171.234:8899/rtp/239.20.0.90:3040, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-惠州, ISP: 电信, Date: None, Delay: 519 ms, Speed: 0.80 M/s, Resolution: None
+Name: 黑龙江卫视, URL: http://113.106.171.234:8899/rtp/239.20.0.91:3036, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-惠州, ISP: 电信, Date: None, Delay: 515 ms, Speed: 0.96 M/s, Resolution: None
