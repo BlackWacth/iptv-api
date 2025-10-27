@@ -1,10 +1,2 @@
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 10 ms, Speed: 10.37 M/s, Resolution: None
-Name: CETV-1, URL: https://httop.top/hrtns-cetv1, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: AS979_Net, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CETV-4, URL: https://httop.top/hrtns-cetv4, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: AS979_Net, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-6, URL: http://xxwx.yoesun.com/xxw/1905电影网.php?id=cctv6, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: Cloudie机房, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://sh.lnott.top:880/dx01.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 移动, Date: None, Delay: 10310 ms, Speed: 0.15 M/s, Resolution: 1920x1080
-Name: 天津卫视, URL: http://113.106.171.234:8899/rtp/239.20.0.89:3044, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-惠州, ISP: 电信, Date: None, Delay: 479 ms, Speed: 0.00 M/s, Resolution: None
-Name: 新疆卫视, URL: http://sh.lnott.top:880/dx55.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 移动, Date: None, Delay: 10005 ms, Speed: 0.25 M/s, Resolution: 1920x1080
-Name: 黑龙江卫视, URL: http://113.106.171.234:8899/rtp/239.20.0.91:3036, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-惠州, ISP: 电信, Date: None, Delay: 492 ms, Speed: 0.54 M/s, Resolution: 1920x1080
-Name: 内蒙古卫视, URL: http://113.106.171.234:8899/rtp/239.20.0.153:2104, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-惠州, ISP: 电信, Date: None, Delay: 489 ms, Speed: 0.24 M/s, Resolution: 720x576
-Name: 三沙卫视, URL: http://113.106.171.234:8899/rtp/239.20.0.52:3192, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-惠州, ISP: 电信, Date: None, Delay: 506 ms, Speed: 0.25 M/s, Resolution: 720x576
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 18 ms, Speed: 5.63 M/s, Resolution: None
+Name: 黑龙江卫视, URL: http://113.106.171.234:8899/rtp/239.20.0.91:3036, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-惠州, ISP: 电信, Date: None, Delay: 496 ms, Speed: 1.09 M/s, Resolution: 1920x1080
