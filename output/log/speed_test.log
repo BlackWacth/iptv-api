@@ -1,5 +1,6 @@
-Name: 湖南卫视, URL: http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 27 ms, Speed: 3.16 M/s, Resolution: None
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 27 ms, Speed: 3.28 M/s, Resolution: None
-Name: CCTV-3, URL: http://113.106.171.234:8899/rtp/239.20.0.236:2270, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-惠州, ISP: 电信, Date: None, Delay: 390 ms, Speed: 0.28 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://171.116.216.113:10010/rtp/226.0.2.181:9360, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 457 ms, Speed: 0.04 M/s, Resolution: None
-Name: CCTV-1, URL: http://171.116.216.113:10010/rtp/226.0.1.157:3086, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 450 ms, Speed: 0.02 M/s, Resolution: None
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 49 ms, Speed: 2.18 M/s, Resolution: None
+Name: 湖南卫视, URL: http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 49 ms, Speed: 2.02 M/s, Resolution: None
+Name: CCTV-10, URL: http://220.170.241.204:9901/tsfile/live/0010_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-湖南-娄底, ISP: 电信, Date: None, Delay: 10231 ms, Speed: 0.15 M/s, Resolution: 720x576
+Name: CCTV-3, URL: http://113.106.171.234:8899/rtp/239.20.0.236:2270, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-惠州, ISP: 电信, Date: None, Delay: 445 ms, Speed: 0.28 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://171.116.216.113:10010/rtp/226.0.2.181:9360, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 464 ms, Speed: 0.08 M/s, Resolution: None
+Name: CCTV-1, URL: http://171.116.216.113:10010/rtp/226.0.1.157:3086, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 463 ms, Speed: 0.04 M/s, Resolution: None
