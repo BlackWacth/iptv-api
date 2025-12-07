@@ -1,8 +1,8 @@
-Name: 湖南卫视, URL: http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 25 ms, Speed: 4.44 M/s, Resolution: None
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 24 ms, Speed: 5.06 M/s, Resolution: None
-Name: CCTV-11, URL: http://183.220.107.138:4022/rtp/239.11.0.22:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 472 ms, Speed: 0.88 M/s, Resolution: 1920x1080
-Name: CCTV-7, URL: http://183.220.107.138:4022/rtp/239.11.0.110:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 446 ms, Speed: 0.91 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 459 ms, Speed: 0.88 M/s, Resolution: 1920x1080
-Name: 风云音乐, URL: http://171.125.90.120:6001/rtp/226.0.2.220:9672, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-忻州, ISP: 联通, Date: None, Delay: 1494 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 怀旧剧场, URL: http://171.125.90.120:6001/rtp/226.0.2.224:9704, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-忻州, ISP: 联通, Date: None, Delay: 496 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: http://144.255.32.94:8288/rtp/239.21.2.3:5002, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 493 ms, Speed: 0.13 M/s, Resolution: None
+Name: 湖南卫视, URL: http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 7 ms, Speed: 15.55 M/s, Resolution: None
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 7 ms, Speed: 14.93 M/s, Resolution: None
+Name: CCTV-7, URL: http://183.220.107.138:4022/rtp/239.11.0.110:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 378 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 386 ms, Speed: 0.88 M/s, Resolution: 1920x1080
+Name: CCTV-11, URL: http://183.220.107.138:4022/rtp/239.11.0.22:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 374 ms, Speed: 0.89 M/s, Resolution: 1920x1080
+Name: 风云音乐, URL: http://171.125.90.120:6001/rtp/226.0.2.220:9672, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-忻州, ISP: 联通, Date: None, Delay: 402 ms, Speed: 0.02 M/s, Resolution: 1920x1080
+Name: 怀旧剧场, URL: http://171.125.90.120:6001/rtp/226.0.2.224:9704, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-忻州, ISP: 联通, Date: None, Delay: 917 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://144.255.32.94:8288/rtp/239.21.2.3:5002, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 365 ms, Speed: 0.08 M/s, Resolution: None
