@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-02 07:16:55,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-07-02 20:09:41,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
@@ -13,10 +13,11 @@ CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 📡卫视频道,#genre#
-湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-北京卫视,http://198.204.228.26/live/bjwshd.m3u8
+湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://198.204.228.26/live/bjwshd.m3u8
+北京卫视,http://204.12.221.218:8181/3m1080p/bjws.m3u8
 黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
