@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-02 07:50:27,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
+2026-09-02 22:08:52,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
@@ -7,6 +7,8 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
 💰央视付费频道,#genre#
 文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin
@@ -16,15 +18,11 @@ CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang
 世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8
 兵器科技,https://live.264788.xyz/channel/bingqikeji
-兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 📡卫视频道,#genre#
-湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi
-贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
@@ -32,6 +30,5 @@ CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
